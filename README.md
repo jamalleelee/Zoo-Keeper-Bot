@@ -1,15 +1,13 @@
-This software is created for educational, learning, and exercise purpose only. If you love the actual game, please try to play it without cheating to preserve it and its communities.
-
-DOCUMENTATION:
+DOCUMENTATION
 ZOO KEEPER BOT
 Version: 1.0
 © 2016 Gurisa Yudistira Mintarno
 This project is released under whatever Licensing you want to justified.
 
+This software is created for educational, learning, and exercise purpose only. If you love the actual game, please try to play it without cheating to preserve it and its communities.
+
 ABOUT
-Java application for solving ZooKeeper Battle puzzle game runs in Bluestack Android emulator.
-This type of application is selected for exercising because it contains a lot subjects for learn programming in java.
-The Distributed CODE and demo APPLICATION would not include all ACTIONS method.
+Java application for solving ZooKeeper Battle puzzle game runs in Bluestack Android emulator. This type of application is selected for exercising because it contains a lot subjects for learn programming in java. The Distributed CODE and demo APPLICATION would not include all ACTIONS method.
 
 Points to remembers:
 - Using only default libraries is intended for learning basic programming and java, that is why mouse robot can only be paused if mouse pointer is dragged outside puzzle grids (no global system shortcut to stop it).

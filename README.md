@@ -1,9 +1,10 @@
 **DOCUMENTATION**
 
-*ZOO KEEPER BOT*
-Version: 1.0
-© 2016 Gurisa Yudistira Mintarno
-This project is released under whatever Licensing you want to justified.
+ - ZOO KEEPER BOT  
+ - Version: 1.0
+ - © 2016 Gurisa Yudistira Mintarno
+ - This project is released under whatever Licensing you want to
+   justified.
 
 This software is created for educational, learning, and exercise purpose only. If you love the actual game, please try to play it without cheating to preserve it and its communities.
 
@@ -83,7 +84,7 @@ Java application for solving ZooKeeper Battle puzzle game runs in Bluestack Andr
 ----------
 
 **CHANGE LOG**
-1.0
+
 DEMO: Saturday, 20 February 2016, 10:15:13
  
 - adding triangle methods to solver
